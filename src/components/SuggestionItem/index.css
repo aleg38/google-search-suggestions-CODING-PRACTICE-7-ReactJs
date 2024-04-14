@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.text {
+  font-size: 17px;
+  font-weight: 400;
+  color: #475569;
+}
+.arrow-icon {
+  height: 30px;
+  width: 20px;
+  color: #64748b;
+  outline: none;
+  cursor: pointer;
+}
